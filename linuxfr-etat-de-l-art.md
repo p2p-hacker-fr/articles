@@ -1,1 +1,1 @@
-Dépêche collaborative en [rédaction sur linuxfr](https://linuxfr.org/redaction/news/p2p-et-decentralisation-chapitre-1-etat-de-l-art)
+Dépêche collaborative publiée [sur LinuxFr.org](https://linuxfr.org/news/p2p-hacker-fr-premier-etat-de-l-art-sur-la-decentralisation)
