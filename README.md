@@ -11,6 +11,8 @@ Ce projet démarre tout juste, le seul article disponible est [la dépêche sur 
 
 * [Tox](http://tox.im/)
 * [Teaponet](http://teapotnet.org/)
+* [BATMAN](http://www.open-mesh.org/projects/open-mesh/wiki)
+
 
 ## Bribes technologiques :
 
