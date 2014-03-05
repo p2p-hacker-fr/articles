@@ -10,3 +10,7 @@ Ce projet démarre tout juste, le seul article disponible est [la dépêche sur 
 ## Projets à regarder :
 
 * [Tox](http://tox.im/)
+
+## Bribes technologiques :
+
+* [GNUNet](https://gnunet.org/)
