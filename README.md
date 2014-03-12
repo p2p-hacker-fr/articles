@@ -30,6 +30,7 @@ Ce projet démarre tout juste, le seul article disponible est [la dépêche sur 
 * Modèle BAR
 * BarGossip/flightpath
 * Firespam
+* [PeerReview](http://peerreview.mpi-sws.org/)
 
 ## Simulation
 
