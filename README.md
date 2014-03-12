@@ -17,7 +17,7 @@ Ce projet démarre tout juste, le seul article disponible est [la dépêche sur 
 * [Oneswarm](http://www.oneswarm.org/)
 * [BOINC](http://boinc.berkeley.edu/)
 
-## Bribes technologiques :
+## Briques technologiques :
 
 * [GNUNet](https://gnunet.org/)
 * [Chord](https://github.com/sit/dht/wiki)
